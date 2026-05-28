@@ -1,0 +1,31 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+#box{
+            background-color: blue;
+            width: 200px;
+            height: 100px;
+            padding: 5px;
+        }
+h4{
+    color: rgb(201, 19, 19);
+}
+.heading{
+    color: red;
+}
+
+#outer{
+            font-size: 25px;
+            height: 150px;
+            width: 200px;
+            background-color: burlywood;
+            padding: 10px;
+        }
+
+#inner{
+            font-size: 10px;
+            height: 70px;
+            width: 100px;
+            background-color: chartreuse;
+            padding: 5px;
+        }

@@ -1,0 +1,11 @@
+*{
+    text-align: center;
+    
+}
+#fieldset{
+    background-color: skyblue;
+}
+button{
+    color: yellow;
+    background-color: red;
+}
